@@ -1,3 +1,7 @@
+---
+title: "Time Words Support"
+---
+
 # Support
 
 For questions or issues, please contact us at:
