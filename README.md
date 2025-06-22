@@ -5,7 +5,7 @@
 ## 📱 Platforms
 
 - **iOS 18.0+** (iPhone app + Home Screen widgets)
-- **watchOS 9.0+** (standalone Watch App + complications & Lock Screen widgets)
+- **watchOS 10.0+** (standalone Watch App + complications & Lock Screen widgets)
 
 ## 🎯 Key Features
 
