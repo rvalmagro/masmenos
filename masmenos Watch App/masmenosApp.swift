@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct masmenos_Watch_AppApp: App {
-    var body: some Scene {
+    @SceneBuilder var body: some Scene {
         WindowGroup {
             ContentView()
         }
+        // Si necesitas mostrar también la complicación, la definirías con WidgetBundle
     }
 }
